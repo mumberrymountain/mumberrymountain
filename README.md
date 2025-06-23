@@ -27,5 +27,5 @@ Software Developer
 ---
 
 ## 📫 Contact
-- ✉️ email: your.email@example.com
-- 💼 Blog: https://velog.io/@mumberrymountain/posts
+- ✉️ email: mumberrymountain@gmail.com
+- 💼 Blog: https://velog.io/@mumberrymountain
