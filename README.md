@@ -1,4 +1,4 @@
-Software Developer
+Software Developer. To be continued.
 
 ## 💻 Skills
 
