@@ -35,6 +35,26 @@ Software Developer. To be continued.
 
 ---
 
+## 🌟 Open Source Contributions
+
+### 🔧 Major Contributions
+- **[fastexcel](https://github.com/dhatim/fastexcel)**
+  - `fastexcel-reader`가 엑셀 파일의 1904 날짜 체계를 정상적으로 인식하지 못하는 현상 수정
+  - Pull Request: [#PR521](https://github.com/dhatim/fastexcel/pull/527)
+
+- **[tabulator](https://github.com/olifolkerd/tabulator)** 
+  - 테이블을 임시적으로 DOM에서 지운 상태에서 행을 추가하고, 다시 테이블을 DOM에 그릴 때 행 추가 상태가 반영되지 않는 현상 수정
+  - Pull Request: [#PR4756](https://github.com/olifolkerd/tabulator/pull/4756)
+ 
+- **[filepond](https://github.com/pqina/filepond)** 
+  - 스크롤이 생길 정도로 데이터가 많을 경우, 드래그 앤 드랍으로 소팅할 때 드랍 데이터 포지션이 이상하게 잡히는 현상 수정
+  - Pull Request: [#PR1057](https://github.com/pqina/filepond/pull/1057)
+
+### 📝 Documentation & Minor Fixes
+- ComposerRuntime 문서 오타 수정 ([#2412](https://github.com/assistant-ui/assistant-ui/pull/2412))
+
+---
+
 ## 📫 Contact
 - ✉️ email: mumberrymountain@gmail.com
 - 💼 Blog: https://velog.io/@mumberrymountain
