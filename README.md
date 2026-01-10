@@ -71,7 +71,7 @@ Full-Stack Developer | Continuously Contributing & Building
 - **Build Tool:** Maven
 - **CI/CD:** GitHub Actions
 - **Code Review:** CodeRabbit (AI-powered code review)
-- **Documentation:** GitHub Pages
+- **Documentation:** MkDocs, GitHub Pages
 
 **🎯 핵심 성과 & 학습 내용**
 - HWPX의 OOXML 구조를 기반으로 파일을 파싱하여 데이터를 렌더링하는 알고리즘을 개발했습니다.
