@@ -55,7 +55,7 @@ Full-Stack Developer | Continuously Contributing & Building
 
 ## 🎯 Portfolio
 
-### 💼 Project 1: [HWPXTemplater](https://github.com/mumberrymountain/hwpxtemplater)
+### [HWPXTemplater](https://github.com/mumberrymountain/hwpxtemplater)
 > HWPX 템플릿 파일을 기반으로 데이터를 주입하여 문서를 생성하는 Java 라이브러리
 
 **🔗 Links:** [Repository](https://github.com/mumberrymountain/hwpxtemplater) | [Documentation](https://mumberrymountain.github.io/hwpxtemplater/) | [Maven Central](https://central.sonatype.com/artifact/io.github.mumberrymountain/hwpxtemplater)
@@ -83,7 +83,7 @@ Full-Stack Developer | Continuously Contributing & Building
 
 ---
 
-### 💼 Project 2: [HWPXTemplater Sample Site](https://github.com/mumberrymountain/hwpxtemplater-sample)
+### [HWPXTemplater Sample Site](https://github.com/mumberrymountain/hwpxtemplater-sample)
 > HWPXTemplater 라이브러리의 기능을 시연하는 서버리스 풀스택 샘플 애플리케이션
 
 **🔗 Links:** [Website](https://www.hwpxtemplater.link/) | [Repository](https://github.com/mumberrymountain/hwpxtemplater-sample)
