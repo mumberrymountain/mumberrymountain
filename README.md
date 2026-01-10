@@ -1,4 +1,4 @@
-Software Developer. To be continued.
+Full-Stack Developer | Continuously Contributing & Building
 
 ## 💻 Skills
 
