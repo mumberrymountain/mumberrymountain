@@ -51,7 +51,7 @@ Full-Stack Developer | Continuously Contributing & Building
   - Pull Request: [#PR1057](https://github.com/pqina/filepond/pull/1057)
 
 ### 📝 Documentation & Minor Fixes
-- ComposerRuntime 문서 오타 수정 ([#2412](https://github.com/assistant-ui/assistant-ui/pull/2412))
+- ComposerRuntime 문서 오타 수정 ([#PR2412](https://github.com/assistant-ui/assistant-ui/pull/2412))
 
 ## 🎯 Portfolio
 
