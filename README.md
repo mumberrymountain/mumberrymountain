@@ -69,7 +69,6 @@ Full-Stack Developer | Continuously Contributing & Building
 **🛠️ Tech Stack**
 - **Language:** Java 8+
 - **Build Tool:** Maven
-- **CI/CD:** GitHub Actions
 - **Code Review:** CodeRabbit (AI-powered code review)
 - **Documentation:** MkDocs, GitHub Pages
 
