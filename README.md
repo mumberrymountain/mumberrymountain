@@ -108,10 +108,10 @@ Full-Stack Developer | Continuously Contributing & Building
 
 ---
 
-### [한글챗]([https://github.com/mumberrymountain/hwpxtemplater-sample](https://github.com/mumberrymountain/hanguelchat))
+### [한글챗]([https://github.com/mumberrymountain/hwpxtemplater-sample](https://github.com/mumberrymountain/hanguelchat])
 > 한글 문서(HWP/HWPX)를 업로드하여 문서 내용을 AI로 분석하는 챗봇 애플리케이션
 
-**🔗 Links:** [Repository]([https://github.com/mumberrymountain/hwpxtemplater-sample](https://github.com/mumberrymountain/hanguelchat))
+**🔗 Links:** [Repository]([https://github.com/mumberrymountain/hwpxtemplater-sample](https://github.com/mumberrymountain/hanguelchat])
 
 **📌 주요 기능**
 - HWP/HWPX 파일을 업로드하여, 해당 문서를 기반으로 문서 내용을 요약합니다. 
