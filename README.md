@@ -117,7 +117,7 @@ Full-Stack Developer | Continuously Contributing & Building
 - HWP/HWPX 파일을 업로드하여, 해당 문서를 기반으로 문서 내용을 요약합니다. 
 - 문서 컨텍스트를 활용한 AI 챗봇 인터페이스를 제공합니다.
 - 한국어, 영어, 아랍어(RTL 실습용) 등 다양한 언어를 지원합니다.
-- 다크 모드/라이트 모드 테마를 지원하빈다.
+- 다크 모드/라이트 모드 테마를 지원합니다.
 - RTL 모드를 지원합니다. 
 
 **🛠️ Tech Stack**
