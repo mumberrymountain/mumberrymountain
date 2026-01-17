@@ -121,12 +121,17 @@ Full-Stack Developer | Continuously Contributing & Building
 - RTL 모드를 지원합니다. 
 
 **🛠️ Tech Stack**
-- **Frontend:** TypeScript, React 19, Next.js 15, Tailwind CSS
-- **Backend:** Java 21, Spring Boot 3.5.5, Spring AI
-- **Library:** hwpxlib, hwplib (한글 문서 처리)
-- **State Management:** Zustand
+- **Frontend**: TypeScript, React 19, Next.js 15, Tailwind CSS
+- **Backend**: Java 21, Spring Boot 3.5.5, Spring AI
+- **Data Access**: Spring Data JPA, Spring Data Redis
+- **Reactive**: Spring WebFlux (SSE Streaming)
+- **Database**: MySQL 8
+- **Cache**: Redis 7
+- **Library**: hwpxlib, hwplib (한글 문서 처리)
+- **State Management**: Zustand
 - **i18n**: next-intl
 - **Theme**: next-themes
+- **Infrastructure**: Docker
 
 **🎯 핵심 성과 & 학습 내용**
 - Spring AI를 활용하여 OpenAI API와의 통합을 간소화하고, 문서 컨텍스트를 활용한 RAG(Retrieval-Augmented Generation) 패턴을 구현했습니다.
