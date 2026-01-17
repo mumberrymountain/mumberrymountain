@@ -64,7 +64,7 @@ Full-Stack Developer | Continuously Contributing & Building
 - 템플릿 파일 기반으로 HWPX 문서에 데이터를 주입하여 생성하는 라이브러리를 구현했습니다.
 - 기본 태그, 조건문 태그, 반복문 태그, 이미지 태그, 테이블 태그 등 다양한 태그 기능을 활용하여 문서를 생성할 수 있도록 구현했습니다. 
 - 커스터마이징 가능한 템플릿 문법 및 인터셉터 시스템 설계
-- Maven Central에 배포하여 라이브러를 공개적으로 사용할 수 있도록 구현했습니다.
+- Maven Central에 배포하여 라이브러리를 공개적으로 사용할 수 있도록 구현했습니다.
 
 **🛠️ Tech Stack**
 - **Language:** Java 8+
