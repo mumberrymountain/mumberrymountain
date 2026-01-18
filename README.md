@@ -69,8 +69,7 @@ Full-Stack Developer | Continuously Contributing & Building
 
 **🛠️ Tech Stack**
 - **Frontend**: TypeScript, React 19, Next.js 15, Tailwind CSS
-- **Backend**: Java 21, Spring Boot 3.5.5, Spring AI, Spring Data JPA, Spring Data Redis
-- **Reactive**: Spring WebFlux (SSE Streaming)
+- **Backend**: Java 21, Spring Boot 3.5.5, Spring AI, Spring Data JPA, Spring Data Redis,  Spring WebFlux (SSE Streaming)
 - **Database**: MySQL 8
 - **Cache**: Redis 7
 - **Library**: hwpxlib, hwplib (한글 문서 처리)
