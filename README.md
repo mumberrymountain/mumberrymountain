@@ -77,7 +77,7 @@ Full-Stack Developer | Continuously Contributing & Building
 - **State Management**: Zustand
 - **i18n**: next-intl
 - **Theme**: next-themes
-- **Infrastructure**: Docker
+- **Infrastructure**: Docker, Kubernates
 
 **🎯 핵심 성과 & 학습 내용**
 - Spring AI를 활용하여 OpenAI API와의 통합을 간소화하고, 문서 컨텍스트를 활용한 RAG(Retrieval-Augmented Generation) 패턴을 구현했습니다.
