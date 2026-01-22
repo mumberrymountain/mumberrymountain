@@ -140,6 +140,7 @@ Full-Stack Developer | Continuously Contributing & Building
 - ACM으로부터 인증서를 발급받아 CloudFront에 연동하여 HTTPS를 적용했습니다.
 - Route53을 통해 커스텀 도메인을 설정하고 DNS를 관리했습니다.
 - React와 TypeScript를 활용하여 인터랙티브한 프론트엔드 페이지를 개발했습니다.
+- 템플릿 관리를 S3 기반으로 전환하여 비개발팀 협업 효율화 및 무배포 실시간 반영 체계를 구축했습니다
 
 ---
 
