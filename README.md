@@ -33,7 +33,7 @@ Full-Stack Developer | Continuously Contributing & Building
   <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect - Associate" width="75"/>
 </a>
 
-#### 📚 Currently Learning
+#### 📚 Currently Studying
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
 ---
