@@ -81,23 +81,21 @@ Full-Stack Developer | Continuously Contributing & Building
 **🎯 핵심 성과 & 학습 내용**
 
 **성능 최적화**
-- react-virtuoso 가상 스크롤 구현으로 대량 데이터(스레드 200개, 채팅 200개) 렌더링 성능 90% 개선 (4.14초 → 0.41초)
-- 벡터 유사성 비교 최적화 및 Redis 캐싱으로 문서 요약 처리 시간 98.2% 개선 (5분 29초 → 5.9초)
-- Kubernetes 환경에서 initContainers와 startupProbe 활용으로 파드 생성 시간 63.7% 단축 (134초 → 49초)
+- `react-virtuoso`을 활용해 가상 스크롤을 구현하여 대량 데이터(스레드 200개, 채팅 200개) 렌더링 성능을 `90%` 개선했습니다. (4.14초 → 0.41초)
+- 벡터 유사성 비교를 최적화하고 Redis 캐싱을 활용하여 문서 요약 처리 시간을 `98.2%` 개선했습니다. (5분 29초 → 5.9초)
+- 쿠버네티스 환경에서 `MySQL` 대신 `MariaDB` 이미지를 사용하고 `startupProbe`를 활용하여 파드 생성 시간을 `63.7%` 단축했습니다. (134초 → 49초)
 
 **기술 구현**
-- Spring AI를 활용하여 OpenAI API 통합 및 RAG(Retrieval-Augmented Generation) 패턴 구현
-- hwplib/hwpxlib 라이브러리를 활용한 한글 문서(HWP/HWPX) 텍스트 추출 파이프라인 구축
-- Spring WebFlux와 SSE(Server-Sent Events)를 활용한 실시간 스트리밍 응답 시스템 구현
-- 파일 해시 기반 Redis 캐싱으로 중복 파일 업로드 시 처리 시간 단축
+- Spring AI를 활용하여 HWPX/HWP 문서 요약 및 채팅 기능을 구현했습니다.
+- 파일 해시 기반 Redis 캐싱으로 중복 파일 업로드 시 처리 시간을 단축했습니다.
 
 **사용자 경험**
-- next-intl을 활용한 다국어 지원(한국어, 영어, 아랍어) 및 RTL 레이아웃 구현
-- next-themes을 사용한 라이트 테마/다크 테마 지원
-- Zustand를 활용한 경량 상태 관리로 스레드 및 대화 기록 효율적 관리
+- `next-intl`을 활용하여 한국어, 영어, 중국어, 일본어, 아랍어 등 다국어를 지원하고 RTL 레이아웃을 구현했습니다.
+- `next-themes`을 사용하여 라이트 테마/다크 테마를 모두 지원하도록 구현했습니다.
+- `Zustand`를 활용한 경량 상태 관리로 스레드 및 대화 기록을 효율적으로 관리하도록 구현했습니다.
 
 **인프라 & DevOps**
-- Docker Compose와 Kubernetes를 활용한 컨테이너 기반 배포 환경 구축
+- `Docker Compose`와 `Kubernetes`를 활용하여 컨테이너 기반 배포 환경을 구축했습니다.
 
 ---
 
