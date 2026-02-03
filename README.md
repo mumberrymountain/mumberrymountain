@@ -157,4 +157,3 @@ Software Developer | Continuously Contributing & Building
 
 ## 📫 Contact
 - ✉️ email: mumberrymountain@naver.com
-- 💼 Blog: https://velog.io/@mumberrymountain
