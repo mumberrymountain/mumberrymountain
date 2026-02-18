@@ -70,6 +70,7 @@ Software Developer | Continuously Contributing & Building
 
 **🔗 Links:** [Website](http://hanguelchat.link) | [Repository](https://github.com/mumberrymountain/hanguelchat)
 
+<!--
 **📌 주요 기능**
 - HWP/HWPX 파일을 업로드하여, 해당 문서를 기반으로 문서 내용을 요약합니다. 
 - 문서 컨텍스트를 활용한 AI 챗봇 인터페이스를 제공합니다.
@@ -103,6 +104,7 @@ Software Developer | Continuously Contributing & Building
 
 **인프라 & DevOps**
 - `Docker Compose`와 `Kubernetes`를 활용하여 컨테이너 기반 배포 환경을 구축했습니다.
+-->
 
 ---
 
@@ -111,6 +113,7 @@ Software Developer | Continuously Contributing & Building
 
 **🔗 Links:** [Repository](https://github.com/mumberrymountain/hwpxtemplater) | [Documentation](https://mumberrymountain.github.io/hwpxtemplater/) | [Maven Central](https://central.sonatype.com/artifact/io.github.mumberrymountain/hwpxtemplater)
 
+<!--
 **📌 주요 기능**
 - 템플릿 파일 기반으로 HWPX 문서에 데이터를 주입하여 생성하는 라이브러리를 구현했습니다.
 - 기본 태그, 조건문 태그, 반복문 태그, 이미지 태그, 테이블 태그 등 다양한 태그 기능을 활용하여 문서를 생성할 수 있도록 구현했습니다. 
@@ -130,6 +133,7 @@ Software Developer | Continuously Contributing & Building
 - Maven Central에 실제로 라이브러리를 배포하는 프로세스를 경험했습니다.
 - CodeRabbit을 활용하여 자동화된 코드 리뷰 시스템 구축을 구축하여 코드의 품질을 향상시켰습니다.
 - MkDocs를 활용하여 체계적인 사용자 매뉴얼을 구축했습니다.
+-->
 
 ---
 
@@ -138,6 +142,7 @@ Software Developer | Continuously Contributing & Building
 
 **🔗 Links:** [Website](https://www.hwpxtemplater.link/) | [Repository](https://github.com/mumberrymountain/hwpxtemplater-sample)
 
+<!--
 **📌 주요 기능**
 - HWPXTemplater 라이브러리의 다양한 기능들을 시연합니다.
 - 사용자가 직접 데이터를 입력하여 HWPX 파일 생성을 체험할 수 있습니다.
@@ -157,8 +162,9 @@ Software Developer | Continuously Contributing & Building
 - Route53을 통해 커스텀 도메인을 설정하고 DNS를 관리했습니다.
 - React와 TypeScript를 활용하여 인터랙티브한 프론트엔드 페이지를 개발했습니다.
 - 템플릿 관리를 AWS S3 기반으로 전환하여 비개발팀 협업 효율화 및 무배포 실시간 반영 체계를 구축했습니다
+-->
 
 ---
 
 ## 📫 Contact
-- ✉️ email: mumberrymountain@naver.com
+- ✉️ email: mumberrymountain@gmail.com
