@@ -40,9 +40,7 @@ Software Developer | Continuously Contributing & Building
 -->
 
 #### 🏆 Certifications
-<a href="https://www.credly.com/badges/5f295cb0-30fd-44d4-a7c6-9eb4d97a992e/public_url">
-  <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect - Associate" width="75"/>
-</a>
+<a href="https://www.credly.com/badges/5f295cb0-30fd-44d4-a7c6-9eb4d97a992e/public_url"><img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect - Associate" width="75"/></a><a href="https://www.credly.com/badges/12f7e9d3-406e-45a1-addf-6d28fce3fb03/public_url"><img src="https://images.credly.com/size/340x340/images/0e717fa5-93a1-4203-964c-051b4734b7eb/blob" alt="HashiCorp Certified: Terraform Associate (004)" width="75"/></a>
 
 ---
 
