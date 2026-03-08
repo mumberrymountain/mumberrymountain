@@ -1,32 +1,44 @@
-Software Developer | Continuously Contributing & Building
+Software Engineer Focusing on DevOps/SRE
 
 ## 💻 Skills
 
-#### 🚀 Programming Languages
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+### 🛠️ DevOps / CI & CD
+| 기술 | 설명 |
+|---|---|
+| ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | 사내 웹서비스를 Docker Compose 기반으로 관리하고, 레거시 GitLab 서버를 Docker Compose 환경으로 마이그레이션한 경험이 있습니다 |
+| ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) | Pod, Deployment, Service 등 핵심 리소스를 활용해 컨테이너 오케스트레이션을 구성한 경험이 있습니다 |
+| ![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI%2FCD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white) | GitLab CI/CD 파이프라인을 구성하여 코드 변경사항의 자동 반영을 구현한 경험이 있습니다 |
+| ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) | GitHub Actions를 활용해 CI/CD 파이프라인을 구성한 경험이 있습니다 |
+| ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white) | GitOps 방식으로 Kubernetes 클러스터에 애플리케이션을 자동 배포한 경험이 있습니다 |
+| ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) | AWS 콘솔로 관리하던 인프라를 Import Block을 활용해 IaC 기반으로 전환한 경험이 있습니다 |
 
-#### ⚙️ Frameworks & Library
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+### 📊 Monitoring & Observability
+| 기술 | 설명 |
+|---|---|
+| ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) | node-exporter와 cAdvisor를 활용해 온프레미스 및 EC2 서버를 모니터링하고 이메일 알림을 설정한 경험이 있습니다 |
+| ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white) | CPU·메모리·디스크 사용 현황 및 추이를 시각화한 사내 서버 모니터링 대시보드를 구성한 경험이 있습니다 |
 
-#### 🛢️ Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+### 🚀 Programming Languages
+| 기술 | 설명 |
+|---|---|
+| ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white) | 객체지향 설계 원칙과 디자인 패턴을 적용해 Java 모듈을 개발하고 Spring Boot 기반 백엔드 API를 구현한 경험이 있습니다 |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | 스크립트를 활용해 회의록 작성 등 업무 플로우를 자동화한 경험이 있습니다 |
+| ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) | 쉘 스크립트를 작성하여 오래된 백업 파일 삭제를 자동화한 경험이 있습니다 |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | 기본적인 프론트엔드 개발 및 Node.js 환경에서 스크립트를 작성할 수 있습니다 |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) | 타입 안정성을 고려한 JavaScript 코드를 작성할 수 있습니다 |
 
-#### 🛠️ DevOps / CI & CD
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+### ⚙️ Backend
+| 기술 | 설명 |
+|---|---|
+| ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) | 사내 프로젝트에서 CRUD 백엔드 API 및 파일 다운로드 API를 구현한 경험이 있습니다 |
+| ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white) | ORM을 활용한 데이터베이스 연동 및 쿼리를 작성한 경험이 있습니다 |
+
+### 🛢️ Database
+| 기술 | 설명 |
+|---|---|
+| ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | MyBatis를 활용해 사내 프로젝트에서 CRUD 쿼리를 구현한 경험이 있습니다 |
+| ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) | 캐싱 및 세션 관리 용도로 활용한 경험이 있습니다 |
+| ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) | Oracle DB 환경에서 기본적인 쿼리를 작성한 경험이 있습니다 |
 
 <!--
 #### 📚 Currently Studying
