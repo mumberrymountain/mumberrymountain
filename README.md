@@ -19,7 +19,7 @@ Software Engineer Focusing on DevOps/SRE
 ### 📊 Monitoring & Observability
 | 기술 | 설명 |
 |---|---|
-| ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) | node-exporter와 cAdvisor를 활용해 온프레미스 및 EC2 서버를 모니터링하고 이메일 알림을 설정한 경험이 있습니다 |
+| ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) | node-exporter와 cAdvisor를 활용해 온프레미스 및 EC2 서버를 모니터링하고, CPU 사용률 알림 및 대시보드를 통해 SSH·PHP 브루트포스 공격을 감지하여 대응한 경험이 있습니다 |
 | ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white) | CPU·메모리·디스크 사용 현황 및 추이를 시각화한 사내 서버 모니터링 대시보드를 구성한 경험이 있습니다 |
 
 <br>
@@ -38,7 +38,7 @@ Software Engineer Focusing on DevOps/SRE
 ### ⚙️ Backend
 | 기술 | 설명 |
 |---|---|
-| ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) | 사내 프로젝트에서 CRUD 백엔드 API 및 파일 다운로드 API를 구현한 경험이 있습니다 |
+| ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) | CRUD 백엔드 API 및 파일 다운로드 API를 구현한 경험이 있습니다 |
 | ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white) | ORM을 활용한 데이터베이스 연동 및 쿼리를 작성한 경험이 있습니다 |
 
 <br>
