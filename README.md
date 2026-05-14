@@ -51,6 +51,7 @@ Software Engineer Focusing on DevOps/SRE
 ### 🔧 Major Contributions
 | 프로젝트 | 기여 내용 | PR |
 |---|---|---|
+| [opentofu](https://github.com/opentofu/opentofu) | `tofu init -backend=false` 실행 시 암호화된 로컬 state 파일을 불필요하게 읽고 복호화를 시도하는 현상 수정 | [#4077](https://github.com/opentofu/opentofu/pull/4077) |
 | [prometheus](https://github.com/prometheus/prometheus) | `tracing.client_type: http`와 `insecure: true` 함께 사용시 프로메테우스 실행할 때 에러나는 현상 수정 | [#18454](https://github.com/prometheus/prometheus/pull/18454) |
 | [node_exporter](https://github.com/prometheus/node_exporter) | `--collector.diskstats.device-include` 단독 사용 시 device-exclude 기본값과의 충돌로 패닉이 발생하는 현상 수정 | [#3603](https://github.com/prometheus/node_exporter/pull/3603) |
 | [fastexcel](https://github.com/dhatim/fastexcel) | `fastexcel-reader`가 엑셀 파일의 1904 날짜 체계를 정상적으로 인식하지 못하는 현상 수정 | [#527](https://github.com/dhatim/fastexcel/pull/527) |
