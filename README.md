@@ -77,8 +77,6 @@ DevOps Engineer
 | 프로젝트 | 설명 | 링크 |
 |---|---|---|
 | [한글챗](https://github.com/mumberrymountain/hanguelchat) | 한글 문서(HWP/HWPX)를 업로드하여 문서 내용을 AI로 분석하는 챗봇 애플리케이션 | [Website](http://hanguelchat.link) \| [Repository](https://github.com/mumberrymountain/hanguelchat) |
-| [HWPXTemplater](https://github.com/mumberrymountain/hwpxtemplater) | HWPX 템플릿 파일을 기반으로 데이터를 주입하여 문서를 생성하는 Java 라이브러리 | [Repository](https://github.com/mumberrymountain/hwpxtemplater) \| [Docs](https://mumberrymountain.github.io/hwpxtemplater/) \| [Maven](https://central.sonatype.com/artifact/io.github.mumberrymountain/hwpxtemplater) |
-| [HWPXTemplater Sample](https://github.com/mumberrymountain/hwpxtemplater-sample) | HWPXTemplater 라이브러리의 기능을 시연하는 서버리스 풀스택 샘플 애플리케이션 | [Website](https://www.hwpxtemplater.link/) \| [Repository](https://github.com/mumberrymountain/hwpxtemplater-sample) |
 ---
 
 ## 📫 Contact
