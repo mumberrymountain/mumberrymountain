@@ -63,7 +63,6 @@ DevOps Engineer — Building reliable infrastructure & automating everything, wi
 ### 📝 Documentation & Minor Fixes
 | 프로젝트 | 기여 내용 | PR |
 |---|---|---|
-| [assistant-ui](https://github.com/assistant-ui/assistant-ui) | ComposerRuntime 문서 오타 수정 | [#2412](https://github.com/assistant-ui/assistant-ui/pull/2412) |
 | [helm-www](https://github.com/helm/helm-www) | Helm v4 문서 플러그인 섹션 한국어 번역 | [#2047](https://github.com/helm/helm-www/pull/2047) |
 
 <br>
