@@ -1,4 +1,4 @@
-# DevOps Engineer — Building reliable infrastructure & automating everything, with contributions to the CNCF ecosystem.
+DevOps Engineer — Building reliable infrastructure & automating everything, with contributions to the CNCF ecosystem.
 
 <br>
 
