@@ -41,6 +41,7 @@ DevOps Engineer — Building reliable infrastructure & automating everything, wi
 |---|---|
 | <a href="https://www.credly.com/badges/5f295cb0-30fd-44d4-a7c6-9eb4d97a992e/public_url"><img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="70"/></a> | [AWS Certified Solutions Architect - Associate](https://www.credly.com/badges/5f295cb0-30fd-44d4-a7c6-9eb4d97a992e/public_url) |
 | <a href="https://www.credly.com/badges/12f7e9d3-406e-45a1-addf-6d28fce3fb03/public_url"><img src="https://images.credly.com/size/340x340/images/0e717fa5-93a1-4203-964c-051b4734b7eb/blob" width="70"/></a> | [HashiCorp Certified: Terraform Associate (004)](https://www.credly.com/badges/12f7e9d3-406e-45a1-addf-6d28fce3fb03/public_url) |
+| <img src="image/sqld.png" width="70"/> | SQL Developer (SQLD) |
 
 <br>
 
