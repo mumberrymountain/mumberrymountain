@@ -68,17 +68,6 @@ DevOps Engineer — Building reliable infrastructure & automating everything, wi
 |---|---|---|
 | [helm-www](https://github.com/helm/helm-www) | Helm v4 문서 플러그인 섹션 한국어 번역 | [#2047](https://github.com/helm/helm-www/pull/2047) |
 
-<br>
-
----
-
-<br>
-
-## 🎯 Portfolio
-
-| 프로젝트 | 설명 | 링크 |
-|---|---|---|
-| [한글챗](https://github.com/mumberrymountain/hanguelchat) | 한글 문서(HWP/HWPX)를 업로드하여 문서 내용을 AI로 분석하는 챗봇 애플리케이션 | [Website](http://hanguelchat.link) \| [Repository](https://github.com/mumberrymountain/hanguelchat) |
 ---
 
 ## 📫 Contact
