@@ -1,4 +1,14 @@
-DevOps Engineer — Building reliable infrastructure & automating everything, with contributions to the CNCF ecosystem.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:326CE5,100:7B42BC&height=180&section=header&text=mumberrymountain&fontSize=42&fontColor=ffffff&desc=DevOps%20Engineer&descAlignY=65&animation=fadeIn" width="100%"/>
+</p>
+
+<p align="center">
+  Building reliable infrastructure & automating everything, with contributions to the CNCF ecosystem.
+</p>
+
+<p align="center">
+  <a href="mailto:mumberrymountain@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+</p>
 
 <br>
 
@@ -54,24 +64,21 @@ DevOps Engineer — Building reliable infrastructure & automating everything, wi
 
 ## 🌟 Open Source Contributions
 
+> Merged fixes in **Prometheus · node_exporter · OpenTofu · Helm** and more
+
 ### 🔧 Major Contributions
 | 프로젝트 | 기여 내용 | PR |
 |---|---|---|
-| [opentofu](https://github.com/opentofu/opentofu) | `tofu init -backend=false` 실행 시 암호화된 로컬 state 파일을 불필요하게 읽고 복호화를 시도하는 현상 수정 | [#4077](https://github.com/opentofu/opentofu/pull/4077) |
-| [prometheus](https://github.com/prometheus/prometheus) | `tracing.client_type: http`와 `insecure: true` 함께 사용시 프로메테우스 실행할 때 에러나는 현상 수정 | [#18454](https://github.com/prometheus/prometheus/pull/18454) |
-| [node_exporter](https://github.com/prometheus/node_exporter) | `--collector.diskstats.device-include` 단독 사용 시 device-exclude 기본값과의 충돌로 패닉이 발생하는 현상 수정 | [#3603](https://github.com/prometheus/node_exporter/pull/3603) |
-| [fastexcel](https://github.com/dhatim/fastexcel) | `fastexcel-reader`가 엑셀 파일의 1904 날짜 체계를 정상적으로 인식하지 못하는 현상 수정 | [#527](https://github.com/dhatim/fastexcel/pull/527) |
-| [tabulator](https://github.com/olifolkerd/tabulator) | 테이블을 임시적으로 DOM에서 제거한 상태에서 행을 추가하고 다시 렌더링할 때 행 추가 상태가 반영되지 않는 현상 수정 | [#4756](https://github.com/olifolkerd/tabulator/pull/4756) |
-| [filepond](https://github.com/pqina/filepond) | 데이터가 많아 스크롤이 생기는 환경에서 드래그 앤 드랍 소팅 시 드랍 포지션이 잘못 계산되는 현상 수정 | [#1057](https://github.com/pqina/filepond/pull/1057) |
+| <img src="https://github.com/opentofu.png" width="20"/> [opentofu](https://github.com/opentofu/opentofu) | `tofu init -backend=false` 실행 시 암호화된 로컬 state 파일을 불필요하게 읽고 복호화를 시도하는 현상 수정 | [![#4077](https://img.shields.io/github/pulls/detail/state/opentofu/opentofu/4077)](https://github.com/opentofu/opentofu/pull/4077) |
+| <img src="https://github.com/prometheus.png" width="20"/> [prometheus](https://github.com/prometheus/prometheus) | `tracing.client_type: http`와 `insecure: true` 함께 사용시 프로메테우스 실행할 때 에러나는 현상 수정 | [![#18454](https://img.shields.io/badge/backported-v3.11.1-6f42c1)](https://github.com/prometheus/prometheus/pull/18469) |
+| <img src="https://github.com/prometheus.png" width="20"/> [node_exporter](https://github.com/prometheus/node_exporter) | `--collector.diskstats.device-include` 단독 사용 시 device-exclude 기본값과의 충돌로 패닉이 발생하는 현상 수정 | [![#3603](https://img.shields.io/github/pulls/detail/state/prometheus/node_exporter/3603)](https://github.com/prometheus/node_exporter/pull/3603) |
+| <img src="https://github.com/dhatim.png" width="20"/> [fastexcel](https://github.com/dhatim/fastexcel) | `fastexcel-reader`가 엑셀 파일의 1904 날짜 체계를 정상적으로 인식하지 못하는 현상 수정 | [![#527](https://img.shields.io/github/pulls/detail/state/dhatim/fastexcel/527)](https://github.com/dhatim/fastexcel/pull/527) |
+| <img src="https://github.com/olifolkerd.png" width="20"/> [tabulator](https://github.com/olifolkerd/tabulator) | 테이블을 임시적으로 DOM에서 제거한 상태에서 행을 추가하고 다시 렌더링할 때 행 추가 상태가 반영되지 않는 현상 수정 | [![#4756](https://img.shields.io/github/pulls/detail/state/olifolkerd/tabulator/4756)](https://github.com/olifolkerd/tabulator/pull/4756) |
+| <img src="https://github.com/pqina.png" width="20"/> [filepond](https://github.com/pqina/filepond) | 데이터가 많아 스크롤이 생기는 환경에서 드래그 앤 드랍 소팅 시 드랍 포지션이 잘못 계산되는 현상 수정 | [![#1057](https://img.shields.io/github/pulls/detail/state/pqina/filepond/1057)](https://github.com/pqina/filepond/pull/1057) |
 
 <br>
 
 ### 📝 Documentation & Minor Fixes
 | 프로젝트 | 기여 내용 | PR |
 |---|---|---|
-| [helm-www](https://github.com/helm/helm-www) | Helm v4 문서 플러그인 섹션 한국어 번역 | [#2047](https://github.com/helm/helm-www/pull/2047) |
-
----
-
-## 📫 Contact
-- ✉️ email: mumberrymountain@gmail.com
+| <img src="https://github.com/helm.png" width="20"/> [helm-www](https://github.com/helm/helm-www) | Helm v4 문서 플러그인 섹션 한국어 번역 | [![#2047](https://img.shields.io/github/pulls/detail/state/helm/helm-www/2047)](https://github.com/helm/helm-www/pull/2047) |
