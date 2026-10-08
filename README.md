@@ -7,6 +7,8 @@ DevOps Engineer — Building reliable infrastructure & automating everything, wi
 ### 🐳 Container & Orchestration
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![Kustomize](https://img.shields.io/badge/Kustomize-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Istio](https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white)
 
 ### 🔄 CI/CD & GitOps
@@ -29,6 +31,7 @@ DevOps Engineer — Building reliable infrastructure & automating everything, wi
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Loki](https://img.shields.io/badge/Loki-F5A800?style=for-the-badge&logo=grafana&logoColor=white)
+![Tempo](https://img.shields.io/badge/Tempo-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
 
 ### 🚀 Programming Languages
@@ -40,7 +43,7 @@ DevOps Engineer — Building reliable infrastructure & automating everything, wi
 | | 자격증 |
 |---|---|
 | <a href="https://www.credly.com/badges/5f295cb0-30fd-44d4-a7c6-9eb4d97a992e/public_url"><img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="70"/></a> | [AWS Certified Solutions Architect - Associate](https://www.credly.com/badges/5f295cb0-30fd-44d4-a7c6-9eb4d97a992e/public_url) |
-| <a href="https://www.credly.com/badges/12f7e9d3-406e-45a1-addf-6d28fce3fb03/public_url"><img src="https://images.credly.com/size/340x340/images/0e717fa5-93a1-4203-964c-051b4734b7eb/blob" width="70"/></a> | [HashiCorp Certified: Terraform Associate (004)](https://www.credly.com/badges/12f7e9d3-406e-45a1-addf-6d28fce3fb03/public_url) |
+| <a href="https://www.credly.com/badges/12f7e9d3-406e-45a1-addf-6d28fce3fb03/public_url"><img src="https://images.credly.com/size/340x340/images/6f614b71-3f2e-488e-8b29-71e90d4dbf80/blob" width="70"/></a> | [HashiCorp Certified: Terraform Associate (004)](https://www.credly.com/badges/12f7e9d3-406e-45a1-addf-6d28fce3fb03/public_url) |
 | <img src="image/sqld.png" width="70"/> | SQL Developer (SQLD) |
 
 <br>
