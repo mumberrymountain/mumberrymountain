@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 372 124" width="372" height="124" role="img" aria-label="dhatim/fastexcel #527 (bugfix) — fastexcel-reader가 엑셀 파일의 1904 날짜 체계를인식하지 못하던 문제 수정">
+  <style>
+    text { font-family: -apple-system,BlinkMacSystemFont,'Segoe UI','Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR',Helvetica,Arial,sans-serif; }
+    .repo { font-size: 14px; font-weight: 600; fill: #e6edf3; }
+    .owner { font-size: 14px; fill: #8b949e; }
+    .sum { font-size: 12.5px; fill: #8b949e; }
+    .code { font-family: ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace; font-size: 11.5px; fill: #79c0ff; }
+    .pill { font-family: ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace; font-size: 11px; font-weight: 600; fill: #ffffff; }
+    .kind { font-family: ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace; font-size: 11px; fill: #8b949e; }
+    .c { animation: rise .45s cubic-bezier(.2,.7,.2,1) both; animation-delay: 0.08s; }
+    @keyframes rise { from { opacity: 0; transform: translateY(6px); } }
+    @media (prefers-reduced-motion: reduce) { .c { animation: none; } }
+  </style>
+  <defs><clipPath id="l"><rect x="22" y="18" width="24" height="24" rx="6"/></clipPath></defs>
+  <g class="c">
+    <rect x="4.5" y="4.5" width="363" height="115" rx="14" fill="#161b22" stroke="#30363d"/>
+    <rect x="20" y="16" width="28" height="28" rx="8" fill="#f0f6fc"/>
+    <image href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADUAAAA1CAYAAADh5qNwAAAFgElEQVR4nOyaW2wUVRjHf7PdQi/ItiK9gyYVEahYREWMShQDhouESkSEB40vaAwaY6LiizFCoj4YE5EnE4OJmgioATReETUWDKBQApjIpbRAA4VSWrq97pjZ/TZOJrPnnNndYmv6SyY7c74zM99/55zvfOfMhG3bRoX10k6lfZCoBg4o7D8AS1IZw4PjU8bkAoUK+3jVyaHs+5MVBjT2DpVxqIrKiBFRw4URUcOFEVHDhRFRw4X/pairkfs5eVw5UCT7XcB5oHWwbjhYoh4C5gO3AVN8EtBeoBFoAH4G3gf6snXzbIoqAFYDTwM3auqOAibJVgdsAtqy5Ui2RD0BvAmUpHGuk3HHsuRHnExF5QEfA0szuIZ6lpoGmYi6AfhWmtCQIl1RFcB+oDjL/mSFdMapHGDPUBVEmk9qO1AVoP5peaqnJGyPBSYDs+T+znF/Gn6kJKiox2QMMuFrYIP8+kU3Z0B+ElgFjAOuBPQlJUGanwV8YFDvMrAIWADsUITrs8B6YCpwMYAfWoI8qTUywKpwsoR7gOaAfnQGrK8kiKi1GnsUuEPyuv8UU1H3GWQLyxSCHgfmAWVAO/AL8GG2n1ASU1GLNfZfga98ymuBT4CbPeWPAq9JrrjZ0AdjTAPFvRr7ep8yJ+PY6yMoiRPxPgsQTY0xEZUn04dUtEnY9vKFDNQ6vjQIQIEwEVUlA2QqfvMpmwHcauiDMw1ZbljXCBNR12jsTT5lDwT0Y47nOKPM3USUro5fihMJ6Ie3vk6U0icTUT0au1/TPGlwXTenPMdjNPW7VUYTUec0M9NanzK/8K5iq+f4ek39syqjqahGhX06MMFT1gK8a3Bth3pgl6dsruac4yqj6Ti1T2Nf7VP2PKB7Ydwkia8bS9Y8VDSojKaivtPYn5PQ7MWJgm9IauTGlox/GnDJY1urGUJ6gZ9UzliGb+fLdO0Y2CL5nx8RyR9LReDuFEPBROCE5s9W3SeOae7XInOjhYo6jwCvAut8bI6QbZp7FEjf0rWejTpng0wSXzao4zS1twNcM8lNwEHJF1UckW8olAQRdcjg33Z4UZaS7zeomw+8AByWD0J0PGVQx6D5WRb82+9W+XR6P5ys/kfJCz+X1acm6eQRWXiZKzmf8kMPF59K+E8QcuXKdiyxxQOnSaB461hCVHsL9PVAKLREMvCryRlsuyruSOE4KIhAb1SEOHOBMHS0Ql93XKxeVO0iqJ4NMx6GgmJoa4buzlcI5fjNobKPbffEV4EjZU1xMU0NsG8rNDdATF6UlE+Bpa9DZyt0tRuIshKPlIqpMGsF1MyHogq4dHod3R1rsQbpvZ3jl2V1UVR+N7n5B2jcD/u2wN7NiRbj5c7lsOIduNgcQFSS4iqYvRJm1kFx5TNEL2+g4zwM9Cf6X2ZKEsPy6EKIlB4FawHHfz9B/Sb4c7v+9NvrYOV7aYhKEimF6Qth6oN3UVmzkYKiWjovwJULiQ4bRKDTN3JyIVIG4dFwsWkDx3av4dA3MQ5/b34dh5l1GYhyU1kDk+esoXbhs1TWTIo3D+fpxZuJ4vpWDuSNgbEl0HMF/tq1g4M71vF3fX38/DQxEWXJWkOOjGvu3+R+NP7yLHd0eah28UqmzVtGVc1Mu/C6sB2WlDAedp1+Eopvlj0AvV1Ybc2tHN+z0/5j20f2yb3JcTAZ5mPymdyAa99dlraosKQw+bIIk+fZd2/OozlnQYlVXHELJdXV1rUTJxApHW+PKhwTwwqFYv29VvRSO21nWuwLjY2cOXLU7us+LL2pRJyOykTQu0Vdv9FU8zwTUSHJwHNdWzjFfq4rW++WwTbHSpTl2Yme1m8nbH0yWubLOX1Sv1/2k1u/Z7/XdezrvFbUcOSfAAAA//9n4YIm++6gDQAAAABJRU5ErkJggg==" x="22" y="18" width="24" height="24" clip-path="url(#l)"/>
+    <text x="56" y="35"><tspan class="owner">dhatim/</tspan><tspan class="repo">fastexcel</tspan></text>
+    <rect x="265.4" y="20" width="86.6" height="20" rx="10" fill="#8957e5"/><text x="308.7" y="34" text-anchor="middle" class="pill">merged #527</text>
+    <text x="22" y="68" class="sum" xml:space="preserve"><tspan class="code">fastexcel-reader</tspan><tspan>가 엑셀 파일의 1904 날짜 체계를</tspan></text>
+    <text x="22" y="88" class="sum" xml:space="preserve"><tspan>인식하지 못하던 문제 수정</tspan></text>
+    <text x="352" y="106" text-anchor="end" class="kind">bugfix</text>
+  </g>
+</svg>

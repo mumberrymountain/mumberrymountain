@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 372 124" width="372" height="124" role="img" aria-label="opentofu/opentofu #4077 (bugfix) — tofu init -backend=false 실행 시 암호화된 로컬state 파일을 불필요하게 복호화하던 문제 수정">
+  <style>
+    text { font-family: -apple-system,BlinkMacSystemFont,'Segoe UI','Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR',Helvetica,Arial,sans-serif; }
+    .repo { font-size: 14px; font-weight: 600; fill: #e6edf3; }
+    .owner { font-size: 14px; fill: #8b949e; }
+    .sum { font-size: 12.5px; fill: #8b949e; }
+    .code { font-family: ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace; font-size: 11.5px; fill: #79c0ff; }
+    .pill { font-family: ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace; font-size: 11px; font-weight: 600; fill: #ffffff; }
+    .kind { font-family: ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace; font-size: 11px; fill: #8b949e; }
+    .c { animation: rise .45s cubic-bezier(.2,.7,.2,1) both; animation-delay: 0.00s; }
+    @keyframes rise { from { opacity: 0; transform: translateY(6px); } }
+    @media (prefers-reduced-motion: reduce) { .c { animation: none; } }
+  </style>
+  <defs><clipPath id="l"><rect x="22" y="18" width="24" height="24" rx="6"/></clipPath></defs>
+  <g class="c">
+    <rect x="4.5" y="4.5" width="363" height="115" rx="14" fill="#161b22" stroke="#30363d"/>
+    <rect x="20" y="16" width="28" height="28" rx="8" fill="#f0f6fc"/>
+    <image href="data:image/png;base64,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" x="22" y="18" width="24" height="24" clip-path="url(#l)"/>
+    <text x="56" y="35"><tspan class="owner">opentofu/</tspan><tspan class="repo">opentofu</tspan></text>
+    <rect x="258.8" y="20" width="93.19999999999999" height="20" rx="10" fill="#8957e5"/><text x="305.4" y="34" text-anchor="middle" class="pill">merged #4077</text>
+    <text x="22" y="68" class="sum" xml:space="preserve"><tspan class="code">tofu init -backend=false</tspan><tspan> 실행 시 암호화된 로컬</tspan></text>
+    <text x="22" y="88" class="sum" xml:space="preserve"><tspan>state 파일을 불필요하게 복호화하던 문제 수정</tspan></text>
+    <text x="352" y="106" text-anchor="end" class="kind">bugfix</text>
+  </g>
+</svg>
