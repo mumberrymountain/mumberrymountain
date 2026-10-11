@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:326CE5,100:7B42BC&height=180&section=header&text=Jeon%20Insoo&fontSize=42&fontColor=ffffff&desc=DevOps%20Engineer&descAlignY=65&animation=fadeIn" width="100%"/>
+  <img src="image/terminal-intro.svg" width="100%" alt="$ kubectl get engineer jeon-insoo"/>
 </p>
 
 <p align="center">
