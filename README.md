@@ -1,13 +1,10 @@
 <p align="center">
-  <img src="image/terminal-intro.svg" width="100%" alt="$ kubectl get engineer jeon-insoo"/>
+  <img src="image/terminal-intro.svg" width="100%" alt="$ kubectl get engineer jeon-insoo — Building reliable infrastructure & automating everything, with contributions to the CNCF ecosystem."/>
 </p>
 
 <p align="center">
-  Building reliable infrastructure & automating everything, with contributions to the CNCF ecosystem.
-</p>
-
-<p align="center">
-  <a href="mailto:mumberrymountain@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:mumberrymountain@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://mumberrymountain.github.io/jeon-resume-blog/"><img src="https://img.shields.io/badge/Blog_%26_Resume-326CE5?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 <br>
