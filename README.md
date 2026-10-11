@@ -12,22 +12,22 @@
 ## Skills
 
 #### Container & Orchestration
-<img src="image/skills-containers.svg" alt="Container & Orchestration"/>
+<a href="https://www.docker.com"><img src="image/skills/docker.svg" width="88" height="94" alt="Docker"/></a><a href="https://kubernetes.io"><img src="image/skills/kubernetes.svg" width="88" height="94" alt="Kubernetes"/></a><a href="https://helm.sh"><img src="image/skills/helm.svg" width="88" height="94" alt="Helm"/></a><a href="https://kustomize.io"><img src="image/skills/kustomize.svg" width="88" height="94" alt="Kustomize"/></a><a href="https://istio.io"><img src="image/skills/istio.svg" width="88" height="94" alt="Istio"/></a>
 
 #### CI/CD & GitOps
-<img src="image/skills-cicd.svg" alt="CI/CD & GitOps"/>
+<a href="https://docs.gitlab.com/ee/ci/"><img src="image/skills/gitlab-ci.svg" width="88" height="94" alt="GitLab CI"/></a><a href="https://github.com/features/actions"><img src="image/skills/actions.svg" width="88" height="94" alt="Actions"/></a><a href="https://www.jenkins.io"><img src="image/skills/jenkins.svg" width="88" height="94" alt="Jenkins"/></a><a href="https://argo-cd.readthedocs.io"><img src="image/skills/argocd.svg" width="88" height="94" alt="ArgoCD"/></a>
 
 #### Infrastructure as Code
-<img src="image/skills-iac.svg" alt="Infrastructure as Code"/>
+<a href="https://developer.hashicorp.com/terraform"><img src="image/skills/terraform.svg" width="88" height="94" alt="Terraform"/></a><a href="https://www.ansible.com"><img src="image/skills/ansible.svg" width="88" height="94" alt="Ansible"/></a>
 
 #### MLOps
-<img src="image/skills-mlops.svg" alt="MLOps"/>
+<a href="https://mlflow.org"><img src="image/skills/mlflow.svg" width="88" height="94" alt="MLflow"/></a><a href="https://dvc.org"><img src="image/skills/dvc.svg" width="88" height="94" alt="DVC"/></a><a href="https://kserve.github.io/website/"><img src="image/skills/kserve.svg" width="88" height="94" alt="KServe"/></a><a href="https://www.kubeflow.org"><img src="image/skills/kubeflow.svg" width="88" height="94" alt="Kubeflow"/></a>
 
 #### Monitoring & Observability
-<img src="image/skills-observability.svg" alt="Monitoring & Observability"/>
+<a href="https://prometheus.io"><img src="image/skills/prometheus.svg" width="88" height="94" alt="Prometheus"/></a><a href="https://grafana.com"><img src="image/skills/grafana.svg" width="88" height="94" alt="Grafana"/></a><a href="https://grafana.com/oss/loki/"><img src="image/skills/loki.svg" width="88" height="94" alt="Loki"/></a><a href="https://grafana.com/oss/tempo/"><img src="image/skills/tempo.svg" width="88" height="94" alt="Tempo"/></a><a href="https://opentelemetry.io"><img src="image/skills/opentelemetry.svg" width="88" height="94" alt="OpenTelemetry"/></a><a href="https://github.com/HolmesGPT/holmesgpt"><img src="image/skills/holmesgpt.svg" width="88" height="94" alt="HolmesGPT"/></a>
 
 #### Programming Languages
-<img src="image/skills-languages.svg" alt="Programming Languages"/>
+<a href="https://go.dev"><img src="image/skills/go.svg" width="88" height="94" alt="Go"/></a><a href="https://www.python.org"><img src="image/skills/python.svg" width="88" height="94" alt="Python"/></a><a href="https://www.gnu.org/software/bash/"><img src="image/skills/bash.svg" width="88" height="94" alt="Bash"/></a>
 
 <br>
 

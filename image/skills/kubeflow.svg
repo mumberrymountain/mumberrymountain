@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 88 94" width="88" height="94" role="img" aria-label="Kubeflow">
+  <style>
+    text { font-family: -apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif; font-size: 12px; fill: #8b949e; }
+    .t { animation: rise .45s cubic-bezier(.2,.7,.2,1) both; animation-delay: 0.21s; }
+    @keyframes rise { from { opacity: 0; transform: translateY(6px); } }
+    @media (prefers-reduced-motion: reduce) { .t { animation: none; } }
+  </style>
+  <g class="t">
+    <rect x="14.5" y="0.5" width="59" height="59" rx="14" fill="#161b22" stroke="#30363d"/>
+    <image href="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iMjU2IiBoZWlnaHQ9IjI1NiIgdmVyc2lvbj0iMS4xIiB2aWV3Qm94PSIwIDAgMjU2IDI1NiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KIDxnIGRhdGEtbmFtZT0iTGF5ZXIgMiI+CiAgPGcgdHJhbnNmb3JtPSJtYXRyaXgoMS4yNzQyIDAgMCAxLjI3NDUgLTQ2LjQ0MSAxMS4zOTMpIj4KICAgPHBhdGggZD0ibTk1LjkgNjIuMTUgNC4xIDEwMi4xIDczLjc1LTk0LjEyYTYuNzkgNi43OSAwIDAgMSA5LjYtMS4xMWw0NiAzNi45Mi0xNS02NS42MXoiIGZpbGw9IiM0Mjc5ZjQiLz4KICAgPHBhdGggZD0ibTEwMi41NSAxODIuOThoNjUuNDJsLTQwLjE3LTMyLjIzeiIgZmlsbD0iIzAwMjhhYSIvPgogICA8cGF0aCBkPSJtMTgwLjE4IDgzLjkyLTQ0IDU2LjE0IDQ2Ljg4IDM3LjYxIDQ0LjQ3LTU1Ljc2eiIgZmlsbD0iIzAxNGJkMSIvPgogICA8cGF0aCBkPSJtODMuNTYgNTIuMyAwLjAxLTAuMDEgMzguNjktNDguNTItNjIuMzkgMzAuMDUtMTUuNDEgNjcuNTF6IiBmaWxsPSIjYmVkY2ZmIi8+CiAgIDxwYXRoIGQ9Im00NS4zMiAxMjIuMDUgNDEuNDQgNTEuOTYtMy45NS05OC45OHoiIGZpbGw9IiM2Y2ExZmYiLz4KICAgPHBhdGggZD0ibTIwMi4zMSAyOC43My01OS42Ni0yOC43My0zNy4xMyA0Ni41NnoiIGZpbGw9IiNhMWMzZmYiLz4KICA8L2c+CiA8L2c+Cjwvc3ZnPgo=" x="28.0" y="14" width="32" height="32"/>
+    <text x="44.0" y="82" text-anchor="middle">Kubeflow</text>
+  </g>
+</svg>
