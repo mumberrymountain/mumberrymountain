@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="image/terminal-intro.svg" width="100%" alt="$ kubectl get engineer jeon-insoo — Building reliable infrastructure & automating everything, with contributions to the CNCF ecosystem."/>
+  <a href="https://mumberrymountain.github.io/jeon-resume-blog/"><img src="image/terminal-intro.svg" width="100%" alt="$ kubectl get engineer jeon-insoo — Building reliable infrastructure & automating everything, with contributions to the CNCF ecosystem."/></a>
 </p>
 
 <p align="center">
