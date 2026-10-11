@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 262" width="720" height="262" role="img" aria-label="Jeon Insoo — DevOps/SRE Engineer. Building reliable infrastructure &amp; automating everything, with contributions to the CNCF ecosystem.">
   <style>
-    text { font-family: ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace; font-size: 17px; fill: #e6edf3; }
+    text { font-family: ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace; font-size: 15px; fill: #e6edf3; }
     .r { opacity: 0; animation: show .01s linear forwards; }
     .cur { opacity: 0; animation: show .01s linear forwards, blink 1s steps(1) infinite; }
     .win { animation: rise .5s cubic-bezier(.2,.7,.2,1) both; }
