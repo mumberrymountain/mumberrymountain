@@ -3,41 +3,58 @@
 </p>
 
 <p align="center">
-  <a href="mailto:mumberrymountain@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://mumberrymountain.github.io/jeon-resume-blog/"><img src="https://img.shields.io/badge/Blog-326CE5?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:mumberrymountain@gmail.com"><img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
+  <a href="https://mumberrymountain.github.io/jeon-resume-blog/"><img src="https://img.shields.io/badge/Blog-161b22?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 <br>
 
-## `$ kubectl get skills -A`
+## Skills
 
-| NAMESPACE | STACK |
-|---|---|
-| `containers` | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white) ![Kustomize](https://img.shields.io/badge/Kustomize-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Istio](https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white) |
-| `cicd` | ![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI%2FCD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white) |
-| `iac` | ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white) |
-| `mlops` | ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white) ![DVC](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white) ![KServe](https://img.shields.io/badge/KServe-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Kubeflow](image/badge-kubeflow.svg) |
-| `observability` | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white) ![Loki](https://img.shields.io/badge/Loki-F5A800?style=for-the-badge&logo=grafana&logoColor=white) ![Tempo](https://img.shields.io/badge/Tempo-F46800?style=for-the-badge&logo=grafana&logoColor=white) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white) ![HolmesGPT](image/badge-holmesgpt.svg) |
-| `languages` | ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) |
+#### Container & Orchestration
+<img src="image/skills-containers.svg" alt="Container & Orchestration"/>
+
+#### CI/CD & GitOps
+<img src="image/skills-cicd.svg" alt="CI/CD & GitOps"/>
+
+#### Infrastructure as Code
+<img src="image/skills-iac.svg" alt="Infrastructure as Code"/>
+
+#### MLOps
+<img src="image/skills-mlops.svg" alt="MLOps"/>
+
+#### Monitoring & Observability
+<img src="image/skills-observability.svg" alt="Monitoring & Observability"/>
+
+#### Programming Languages
+<img src="image/skills-languages.svg" alt="Programming Languages"/>
 
 <br>
 
-## `$ kubectl get certifications`
+## Certifications
 
-| BADGE | CERTIFICATION |
-|:---:|---|
-| <a href="https://www.credly.com/badges/5f295cb0-30fd-44d4-a7c6-9eb4d97a992e/public_url"><img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="70"/></a> | [AWS Certified Solutions Architect - Associate](https://www.credly.com/badges/5f295cb0-30fd-44d4-a7c6-9eb4d97a992e/public_url) |
-| <a href="https://www.credly.com/badges/12f7e9d3-406e-45a1-addf-6d28fce3fb03/public_url"><img src="https://images.credly.com/size/340x340/images/6f614b71-3f2e-488e-8b29-71e90d4dbf80/blob" width="70"/></a> | [HashiCorp Certified: Terraform Associate (004)](https://www.credly.com/badges/12f7e9d3-406e-45a1-addf-6d28fce3fb03/public_url) |
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://www.credly.com/badges/5f295cb0-30fd-44d4-a7c6-9eb4d97a992e/public_url"><img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="80" alt="AWS Certified Solutions Architect - Associate"/></a><br>
+      <sub>AWS Certified Solutions Architect - Associate</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://www.credly.com/badges/12f7e9d3-406e-45a1-addf-6d28fce3fb03/public_url"><img src="https://images.credly.com/size/340x340/images/6f614b71-3f2e-488e-8b29-71e90d4dbf80/blob" width="80" alt="HashiCorp Certified: Terraform Associate (004)"/></a><br>
+      <sub>HashiCorp Certified: Terraform Associate (004)</sub>
+    </td>
+  </tr>
+</table>
 
 <br>
 
-## `$ git log --author=mumberrymountain --merged`
+## Open Source Contributions
 
 > Merged fixes in **Prometheus · node_exporter · OpenTofu · Helm** and more
 
-#### `bugfix`
+#### Major Contributions
 
-| PROJECT | DESCRIPTION | PR |
+| 프로젝트 | 기여 내용 | PR |
 |---|---|---|
 | <img src="image/org-opentofu.png" width="20"/> [opentofu](https://github.com/opentofu/opentofu) | `tofu init -backend=false` 실행 시 암호화된 로컬 state 파일을 불필요하게 읽고 복호화를 시도하는 현상 수정 | [![#4077](https://img.shields.io/github/pulls/detail/state/opentofu/opentofu/4077)](https://github.com/opentofu/opentofu/pull/4077) |
 | <img src="image/org-prometheus.png" width="20"/> [prometheus](https://github.com/prometheus/prometheus) | `tracing.client_type: http`와 `insecure: true` 함께 사용시 프로메테우스 실행할 때 에러나는 현상 수정 | [![#18454](https://img.shields.io/badge/backported-v3.11.1-6f42c1)](https://github.com/prometheus/prometheus/pull/18469) |
@@ -48,12 +65,8 @@
 | <img src="https://github.com/pqina.png" width="20"/> [filepond](https://github.com/pqina/filepond) | 데이터가 많아 스크롤이 생기는 환경에서 드래그 앤 드랍 소팅 시 드랍 포지션이 잘못 계산되는 현상 수정 | [![#1057](https://img.shields.io/github/pulls/detail/state/pqina/filepond/1057)](https://github.com/pqina/filepond/pull/1057) |
 -->
 
-#### `docs`
+#### Documentation & Minor Fixes
 
-| PROJECT | DESCRIPTION | PR |
+| 프로젝트 | 기여 내용 | PR |
 |---|---|---|
 | <img src="image/org-helm.png" width="20"/> [helm-www](https://github.com/helm/helm-www) | Helm v4 문서 플러그인 섹션 한국어 번역 | [![#2047](https://img.shields.io/github/pulls/detail/state/helm/helm-www/2047)](https://github.com/helm/helm-www/pull/2047) |
-
-<br>
-
-<p align="center"><sub><code>$ exit</code> · thanks for stopping by</sub></p>
