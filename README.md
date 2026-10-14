@@ -5,7 +5,6 @@
 <p align="center">
   <a href="mailto:mumberrymountain@gmail.com"><img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
   <a href="https://mumberrymountain.github.io/jeon-resume-blog/"><img src="https://img.shields.io/badge/Blog-161b22?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://registry.terraform.io/namespaces/mumberrymountain"><img src="https://img.shields.io/badge/Terraform%20Registry-161b22?style=for-the-badge&logo=terraform&logoColor=7B42BC"/></a>
 </p>
 
 <br>
